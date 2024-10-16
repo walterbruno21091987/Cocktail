@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cocktail</string>
+    <string name="SBN">Search by name</string>
+    <string name="SBI">Search by ingt.</string>
+    <string name="NC">New Cocktail</string>
+    <string name="SF">See Full</string>
+</resources>
